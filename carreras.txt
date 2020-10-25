@@ -1,0 +1,10 @@
+IC,Ingeniería en Computación,01.09.1978
+CE,Ingeniería en Computadores,01.01.2000
+AT,Administracion de Tecnologias,01.01.2000
+AE,Administracion de Empresas,01.01.1979
+EM,Enseñanza de la Matemática,01.01.1980
+GT,Turismo Sostenible,01.01.1981
+ID,Ingeniería en Diseño Industrial,'01.01.1982'
+IA,Ingeniería Agrícola,01.01.1983
+IE,Ingeniería Electrónica,01.01.1984
+
